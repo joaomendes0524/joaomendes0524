@@ -1,16 +1,47 @@
-## Hi there 👋
+# Olá, eu sou João Mendes 👋
 
-<!--
-**joaomendes0524/joaomendes0524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Backend com experiência no desenvolvimento de aplicações web, APIs REST e integrações entre sistemas.
 
-Here are some ideas to get you started:
+Atualmente trabalho no desenvolvimento de soluções tecnológicas para o setor automotivo e curso Análise e Desenvolvimento de Sistemas na Universidade Presbiteriana Mackenzie.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse em engenharia de software, arquitetura de sistemas e desenvolvimento backend utilizando Java.
+
+---
+
+## Tecnologias
+
+**Backend**
+
+- Java
+- Spring Boot
+- Node.js
+- TypeScript
+
+**Banco de Dados**
+
+- PostgreSQL
+- Redis
+
+**Ferramentas**
+
+- Docker
+- Git
+- Linux
+
+---
+
+## Atualmente estudando
+
+- Java 21
+- Spring Boot
+- Spring Security
+- JPA / Hibernate
+- SQL
+- Testes automatizados
+
+---
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-vitor-mendes-05023b375/
+- E-mail: joao.mendes052422@gmail.com
