@@ -40,6 +40,7 @@ Tenho interesse em engenharia de software, arquitetura de sistemas e desenvolvim
 - JPA / Hibernate
 - SQL
 - Testes automatizados
+- Redis
 
 ---
 
