@@ -16,6 +16,8 @@ Tenho interesse em engenharia de software, arquitetura de sistemas e desenvolvim
 - Spring Boot
 - Node.js
 - TypeScript
+- C#
+- ASP.NET
 
 **Banco de Dados**
 
